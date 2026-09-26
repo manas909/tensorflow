@@ -77,3 +77,8 @@ If the Project Stewards receive a report alleging a violation of the Code of Con
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://contributor-covenant.org/version/1/4, and includes some aspects of the Geek Feminism Code of Conduct and the Drupal Code of Conduct.
+
+
+Plz maintain the decoram in this repo and dont make pull request for fun purpose only
+
+If you are a beginner you can create a fork on your own 
